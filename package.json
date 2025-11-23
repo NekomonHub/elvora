@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "elvora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vora.js",
+  "scripts": {
+    "start": "node vora.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "downloader-nzx": "^1.0.1"
+  }
+}
